@@ -53,7 +53,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
-        style="@android:style/Holo.ButtonBar">
+        style="@android:style/Widget.Material.ButtonBar">
         <Button
             android:id="@+id/btn_discard"
             android:layout_width="0dip"
